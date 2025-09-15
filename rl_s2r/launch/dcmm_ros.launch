@@ -1,0 +1,4 @@
+<launch>
+<node pkg="rl_s2r" type="dcmm_node.py" name="dcmm_node" output="screen">
+</node>
+</launch>
