@@ -1,0 +1,4 @@
+<launch>
+<node pkg="dcmm_sim" type="dcmm_sim_node.py" name="dcmm_sim_node" output="screen">
+</node>
+</launch>

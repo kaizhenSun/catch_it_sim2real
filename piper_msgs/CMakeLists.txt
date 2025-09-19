@@ -84,6 +84,7 @@ add_service_files(
   Enable.srv
   Gripper.srv
   GoZero.srv
+  Reset.srv
 )
 ## Generate added messages and services with any dependencies listed here
 generate_messages(

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: gym_dcmm
+Version: 0.0.1
+Summary: Mujoco Environment for Dexterous Catch with Mobile Manipulation (DCMM).
+Author: Yuanhang Zhang
+Keywords: robotics,rl
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.8
+License-File: LICENSE
+Requires-Dist: gymnasium==0.29.1
+Requires-Dist: mujoco>=3.0.0

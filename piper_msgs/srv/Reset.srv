@@ -1,0 +1,3 @@
+bool reset_request  # 请求消息类型为bool
+---
+bool reset_response  # 响应消息类型为bool
